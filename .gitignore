@@ -1,0 +1,10 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+archives/
+data/
+working/
+
+# File
+*.png
